@@ -1,1 +1,5 @@
 https://github.com/ManikandanAbirami/React_Redux_Guvi.git
+
+npm instal react-redux
+
+npm install redux
