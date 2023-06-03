@@ -13,8 +13,8 @@ function App() {
   const [age, setAge] = useState(user.age);
   return (
     <div className="App">
-      <h1>Name: </h1>
-      <h2>Age:</h2>
+      <h1>Name: {user.name} </h1>
+      <h2>Age: {user.age}</h2>
       <form
         onSubmit={(e) => {
           e.preventDefault();
