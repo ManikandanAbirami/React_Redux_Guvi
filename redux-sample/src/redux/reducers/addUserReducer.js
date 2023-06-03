@@ -1,4 +1,4 @@
-const initialState = { name: "Manikandan Anbalagan", age: 32 };
+const initialState = { name: "Guvi", age: 10 };
 
 const addUserReducer = (state = initialState, action) => {
   switch (action.type) {
